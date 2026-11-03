@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useState } from 'react'
 import heroImage from './assets/hero.jpg'
-import breakfastImage from './assets/breakfast.jpg'
+import breakfastImage from './assets/Breakfast.jpg'
 import lunchImage from './assets/lunch.jpg'
 import dinnerImage from './assets/dinner.jpg'
 import './App.css'
